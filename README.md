@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markos-Dex
 - 👀 I’m interested in learning how to code videogames
-- 🌱 I’m currently learning Python as my first programming language. Webscrapping, a bit of big data, a lot of web development with Django.
+- 🌱 I’m currently learning Python as my first programming language. Webscrapping, a bit of big data, a lot of Django.
 - 💞️ I’m looking to collaborate on anything that feels interesting!
 
 <!---
